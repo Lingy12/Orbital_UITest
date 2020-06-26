@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B815FFAC24A5B0D50037EE94 /* TimePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B815FFAB24A5B0D50037EE94 /* TimePickerView.swift */; };
 		B87462E024A594C9000472FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87462DF24A594C9000472FE /* AppDelegate.swift */; };
 		B87462E224A594C9000472FE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87462E124A594C9000472FE /* SceneDelegate.swift */; };
 		B87462E524A594C9000472FE /* Orbital_UITest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B87462E324A594C9000472FE /* Orbital_UITest.xcdatamodeld */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B815FFAB24A5B0D50037EE94 /* TimePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimePickerView.swift; sourceTree = "<group>"; };
 		B87462DC24A594C9000472FE /* Orbital_UITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Orbital_UITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B87462DF24A594C9000472FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B87462E124A594C9000472FE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				B87462DF24A594C9000472FE /* AppDelegate.swift */,
 				B87462E124A594C9000472FE /* SceneDelegate.swift */,
 				B87462E624A594C9000472FE /* ContentView.swift */,
+				B815FFAB24A5B0D50037EE94 /* TimePickerView.swift */,
 				B87462E824A594CB000472FE /* Assets.xcassets */,
 				B87462ED24A594CB000472FE /* LaunchScreen.storyboard */,
 				B87462F024A594CB000472FE /* Info.plist */,
@@ -152,6 +155,7 @@
 				B87462E024A594C9000472FE /* AppDelegate.swift in Sources */,
 				B87462E224A594C9000472FE /* SceneDelegate.swift in Sources */,
 				B87462E724A594C9000472FE /* ContentView.swift in Sources */,
+				B815FFAC24A5B0D50037EE94 /* TimePickerView.swift in Sources */,
 				B87462E524A594C9000472FE /* Orbital_UITest.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
